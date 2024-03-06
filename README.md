@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chrisfwilliams)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://www.twitter.com/mistwire)
+
 <!--
 **mistwire/mistwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
