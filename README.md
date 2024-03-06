@@ -8,7 +8,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 <!--
 **mistwire/mistwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
